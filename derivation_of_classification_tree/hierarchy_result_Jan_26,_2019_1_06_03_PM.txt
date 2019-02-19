@@ -1,0 +1,16 @@
+Hierarchy: 
+
+Iterate.Node@14ae5a5, tuples: 9
+              Iterate.Node@7f31245a, tuples: 7
+                      Iterate.Node@45ee12a7, tuples: 1
+                      Iterate.Node@330bedb4, tuples: 2
+                              Iterate.Node@7ea987ac, tuples: 1
+                              Iterate.Node@12a3a380, tuples: 1
+                      Iterate.Node@2503dbd3, tuples: 2
+                              Iterate.Node@29453f44, tuples: 1
+                              Iterate.Node@5cad8086, tuples: 1
+                      Iterate.Node@4b67cf4d, tuples: 2
+                              Iterate.Node@6e0be858, tuples: 1
+                              Iterate.Node@61bbe9ba, tuples: 1
+              Iterate.Node@6d6f6e28, tuples: 1
+              Iterate.Node@135fbaa4, tuples: 1
