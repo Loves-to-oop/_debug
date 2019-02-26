@@ -1,3 +1,4 @@
+In[907]:=
 TreePlot[{"Iterate.Node@14ae5a5, 32" -> "Iterate.Node@7f31245a, 3",
 "Iterate.Node@7f31245a, 3" -> "Iterate.Node@5cad8086, 1",
 "Iterate.Node@7f31245a, 3" -> "Iterate.Node@6e0be858, 1",
@@ -39,5 +40,9 @@ TreePlot[{"Iterate.Node@14ae5a5, 32" -> "Iterate.Node@7f31245a, 3",
 "Iterate.Node@12a3a380, 6" -> "Iterate.Node@5a07e868, 1",
 "Iterate.Node@14ae5a5, 32" -> "Iterate.Node@29453f44, 2",
 "Iterate.Node@29453f44, 2" -> "Iterate.Node@76ed5528, 1",
-"Iterate.Node@29453f44, 2" -> "Iterate.Node@2c7b84de, 1",
-1 -> 2}, VertexLabeling -> True]
+"Iterate.Node@29453f44, 2" -> "Iterate.Node@2c7b84de, 1"}, Center, VertexLabeling -> True]
+Out[907]= 
+In[908]:= Show[%907,ImageSize->Full]
+Out[908]= 
+In[905]:= Show[%904,ImageSize->Large]
+Out[905]= 
